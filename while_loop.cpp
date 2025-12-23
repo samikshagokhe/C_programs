@@ -10,7 +10,7 @@ int main(){
 	}
 	
 	int j =5;
-	while(j>=5){
+	while(j>=1){
 		printf("%d",j);
 		j--;
 	}
